@@ -1,0 +1,15 @@
+{
+  "name": "advent2016",
+  "version": "1.0.0",
+  "description": "",
+  "main": "input1.js",
+  "dependencies": {},
+  "devDependencies": {
+    "jest": "^26.0.1"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC"
+}
